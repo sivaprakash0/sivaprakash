@@ -1,7 +1,4 @@
-package player;
-
 import java.util.Scanner;
-
 public class sumdigpald {
 public static void main(String[] args) {
 	Scanner in=new Scanner(System.in);
