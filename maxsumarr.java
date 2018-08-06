@@ -1,8 +1,5 @@
-package set1;
-
 import java.util.Arrays;
 import java.util.Scanner;
-
 public class maxsumarr {
 public static void main(String[] args) {
 	Scanner rd=new Scanner(System.in);
@@ -44,7 +41,6 @@ public static void main(String[] args) {
 		else{
 			sum=b+ar[l-2];
 		System.out.println(sum);}
-	}
-	
+	}	
 }
 }
