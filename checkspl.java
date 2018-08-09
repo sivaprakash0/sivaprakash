@@ -1,5 +1,3 @@
-package set1;
-
 import java.util.Scanner;
 public class checkspl{
  public static void main(String args[]){
