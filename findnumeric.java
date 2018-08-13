@@ -1,8 +1,4 @@
-package set3;
-
-import java.math.BigInteger;
 import java.util.Scanner;
-
 public class findnumeric {
 public static void main(String[] args) {
 	Scanner in=new Scanner(System.in);
